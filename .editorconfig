@@ -10,7 +10,7 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[Assets/Scripts/**.cs]
+[Assets/{Scripts,NetworkMessages}/**.cs]
 indent_size = 4
 max_line_length = 120
 
